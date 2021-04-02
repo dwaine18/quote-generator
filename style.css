@@ -21,11 +21,11 @@ body {
     margin-top: -200px;
 }
 #top-quote {
-    clear: /both;
+    clear: both;
     position: center;
     margin-top: 303px;
     font-size: 3rem;
-    align-items: center;
+    align-items: center; 
     text-align: center;
     font-style: italic;
     text-decoration: underline;
